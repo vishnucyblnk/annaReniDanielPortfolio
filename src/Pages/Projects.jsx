@@ -15,6 +15,24 @@ function Projects() {
 
     const allProject = [
         {
+            projectName: 'Accountant',
+            projectTools: `Deuteronomy Clothings, Pathanamthitta | (Oct 2025 - Present)`,
+            projectDesc: [
+            "- Maintained accurate books of accounts including General Ledger, Journals, and Trial Balance",
+            "- Prepared financial statements such as Profit & Loss, Balance Sheet, and Cash Flow Reports",
+            "- Managed Accounts Payable & Receivable, vendor settlements, and reconciliations",
+            "- Conducted bank reconciliations and monitored daily petty cash and expenses.",
+            "- Handled accounting for two entities: Deuteronomy Clothings and EDL Outfits.",
+            "- Processed payroll by preparing and distributing monthly staff salaries.",
+            "- Managed sales and purchase records, including invoices, receipts, and payment entries.",
+            "- Proficient in Zoho Books and Book Keeper Software.",
+            "- Supported audits with accurate schedules and organized documentation.",
+            "- Ensured timely collections by following up on outstanding customer payments."
+
+            ],
+            
+        },
+        {
             projectName: 'Junior Accountant',
             projectTools: `Gastronomy Legacy Fresh Foods Pvt Ltd, Bengaluru | (Aug 2024 - Aug 2025)`,
             projectDesc: [
@@ -22,7 +40,7 @@ function Projects() {
             "- Prepared financial statements such as Profit & Loss, Balance Sheet, and Cash Flow Reports",
             "- Managed Accounts Payable & Receivable, vendor settlements, and reconciliations",
             "- Conducted bank reconciliations, expense tracking, and variance analysis",
-            "- Supported internal and statutory audits with schedules and documentation",
+            "- Supported internal and statutory audits by providing necessary schedules and documentation.",
             "- Recognized for strong analytical skills, reliability, and dedication to timelines"
             ],
             
@@ -32,10 +50,11 @@ function Projects() {
             projectTools: `SKG Accountants & Consultants, Pathanamthitta | (Aug 2022 – Jun 2024)`,
             projectDesc: [
       "- Handled day-to-day accounting activities, bookkeeping, and reconciliations",
-      "- Assisted in GST Filings (GSTR 1, GSTR 3B), ensuring compliance with statutory requirements",
-      "- Supported finance operations with a client-focused and service-oriented approach",
-      "- Collaborated with senior accountants to streamline accounting processes",
-      "- Gained hands-on experience in financial reporting and client support, noted for professionalism and reliability"
+      "- Assisted in GST Filings (GSTR 1, GSTR 3B) to ensure full statutory compliance.",
+      "- Supported finance operations with a dedicated, client-focused and service-oriented approach.",
+      "- Collaborated with senior accountants to optimize and streamline internal accounting processes.",
+      "- Prepared financial reports and provided client support with a high level of professionalism.",
+      "- Recognized for reliability in meeting deadlines and maintaining accurate financial records."
     ],
         },
         
@@ -60,4 +79,3 @@ function Projects() {
 }
 
 export default Projects
-
